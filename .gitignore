@@ -1,0 +1,7 @@
+Dependencies
+/images-generative-ai/bin/
+/images-generative-ai/obj/
+Images-Generative-AI.sln
+
+OpenAI API Key
+OpenAI_API.keys.json
